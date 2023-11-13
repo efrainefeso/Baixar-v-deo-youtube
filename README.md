@@ -1,5 +1,14 @@
-# Baixar vídeo do youtube
+# Baixador de Vídeos do YouTube
 
-#Descrição
+## Descrição
+Este é um programa em Python que baixa vídeos do YouTube. Ele utiliza a biblioteca PySimpleGUI para a interface gráfica e pytube para o download dos vídeos.
 
-projeto simples que implementa a utilização de uma interface para fazer download criada em python utilizando o tkinter
+## Requisitos
+- Python 3.x
+- PySimpleGUI
+- pytube
+
+## Instalação
+### 1. Instale as Bibliotecas:
+```bash
+pip install PySimpleGUI pytube
